@@ -1,0 +1,27 @@
+header{
+    background-color: #EAC926;
+    width: 100%;
+}
+.logo{
+ width:30%;
+}
+.header-logo_search{
+    display: flex;
+    justify-content: space-between;
+}
+.search{
+ flex: end;
+}
+.buscar{
+    
+    width: 60%;
+    border-radius: 10px;
+
+}
+.burger-menu{
+    display: inline;
+    background-color:#1259c3 ;
+    color: white;
+    font-size: 2em;
+    border-radius: 4px;
+}
